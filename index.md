@@ -9,4 +9,4 @@
 
 That's all. Thanks for coming.
 
-[About me](/about/)
+[About me](about)
